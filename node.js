@@ -1,0 +1,2 @@
+const size = 8;
+

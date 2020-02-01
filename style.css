@@ -1,0 +1,32 @@
+.divPad {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
+
+.col div {
+    margin: 10px;
+}
+
+.selected {
+    background-color: cornflowerblue;
+}
+
+.queen {
+    background-color: wheat;
+}
+
+.solution {
+    background-color: plum;
+}
+
+.number {
+    display: flex;
+    align-items: center;
+}
